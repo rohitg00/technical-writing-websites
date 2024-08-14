@@ -429,6 +429,42 @@ This list provides a curated collection of companies offering paid writing progr
 [Adeva](https://adevait.com/write-for-us) - $200+ per piece
 > Technical guides, thought leadership content and resources for Engineering Managers.
 
+## Resources
+
+[Documenting APIs](https://idratherbewriting.com/learnapidoc/)
+> Documenting APIs: A guide for technical writers and engineers
+
+[Write the Docs](https://www.writethedocs.org/topics/)
+
+[awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
+> 📚 A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.
+
+[Technical-Writing-Resources](https://github.com/CynthiaPeter/Technical-Writing-Resources)
+> A collection of blogpost, resources, and links that has helped me in my journey as a technical writer. I still refer to them and contribute to the list as I find more.
+
+[jekyll-theme-chirpy](chirpy.cotes.page)
+> https://github.com/cotes2020/jekyll-theme-chirpy
+
+[awesome-technical-writing-learning](https://github.com/wongyah/awesome-technical-writing-learning)
+> 😎 A curated list of awesome and free resources about technical writing.
+
+## Technical Writing Podcasts
+* [Writers of Silicon Valley](https://www.writersofsiliconvalley.com/)
+* [The Content Strategy Podcast](https://www.contentstrategy.com/podcast)
+* [The Cherryleaf Podcast](https://www.cherryleaf.com/podcast/)
+* [The Content Strategy Experts](https://www.scriptorium.com/content-strategy-experts-podcast)
+* [Write the Docs Podcast](https://podcast.writethedocs.org/)
+* [I’d Rather Be Writing](/podcasts)
+* [Wireframe](https://podcasts.apple.com/us/podcast/wireframe/id1437677219)
+* [The Not Boring Tech Writer](https://www.thenotboringtechwriter.com/)
+* [10 Minute Tech Comm](https://www.stitcher.com/podcast/uah-technical-writing/10minute-tech-comm)
+* [Content Content](http://edmarsh.com/content-content-podcast/)
+* [Instrktiv's Insane Instructions Show](https://open.spotify.com/show/0OqluDn7YSjc1cdAULPOB8) (new)
+* [The Manuscript](https://podcasts.apple.com/podcast/the-manuscript/id1501843799) (new)
+* [The Knowledgebase Ninjas](https://document360.io/blog/category/knowledgebase-ninjas/) (new)
+* [Content Components](https://easydita.com/project/content-components-podcast/) (new)
+* [Titans of Tech Comm](https://heretto.com/project/titans-of-tech-comm-podcast/) (new)
+
 ## Contributing
 
 If you know of any other companies that offer paid technical writing opportunities, please feel free to contribute by submitting a pull request. Please ensure that the information you add follows the existing format and includes a link to the company's writing program page.
