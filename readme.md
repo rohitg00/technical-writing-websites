@@ -9,9 +9,6 @@ This list provides a curated collection of companies offering paid writing progr
 
 ## Writing Opportunities
 
-[Appsmith](https://www.appsmith.com/blog/launching-the-appsmith-writers-program?) - $200-$400 per piece
-> They pay for content created including video, templates, blog posts, and tutorials.
-
 [CSS-Tricks](https://css-tricks.com/guest-writing-for-css-tricks/) - $300-$400 per piece
 > Technical articles about web development, with a focus on CSS. Complex production-focused topics may be paid at a higher rate.
 
