@@ -13,7 +13,7 @@ This list provides a curated collection of companies offering paid writing progr
 > Technical articles about web development, with a focus on CSS. Complex production-focused topics may be paid at a higher rate.
 
 [Digital Ocean](https://www.digitalocean.com/community/pages/write-for-digitalocean) - Up to $400 per piece
-Technical tutorials and articles about cloud computing, system administration, and web development.
+> Technical tutorials and articles about cloud computing, system administration, and web development.
 
 [Medusa](https://medusajs.notion.site/Write-for-us-74a2bf43b4ce43eeba200382f599321a) - Currently not accepting guest posts.
 > Technical content related to Medusa, e-commerce, and web development.
