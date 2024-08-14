@@ -282,6 +282,156 @@ Technical tutorials and articles about cloud computing, system administration, a
 [Semaphore](https://semaphoreci.com/community/write-for-us) - Up to $300 per piece
 > Technical tutorials and articles about CI/CD, DevOps, and software testing.
 
+[Smashing Magazine](https://www.smashingmagazine.com/write-for-us/) - $200-$250 per piece
+> In-depth articles and tutorials about web design, development, and UX.
+
+[SitePoint](https://www.sitepoint.com/write-for-us/) - $250 per piece
+> Technical tutorials and articles about web development, design, and programming languages.
+
+[Tutorialspoint](https://www.tutorialspoint.com/about/tutorials_writing.htm) - Pay varies
+> Technical tutorials on a wide range of programming languages and technologies.
+
+[Envato Tuts+](https://tutsplus.com/teach) - $100-$250 per tutorial
+> Tutorials on web development, design, 3D, photography, and business.
+
+[A List Apart](https://alistapart.com/about/contribute/) - $200 per piece
+> Articles about web design, development, and content strategy.
+
+[Toptal](https://www.toptal.com/developers/blog#submit-content) - Pay varies
+> In-depth technical articles and tutorials for experienced developers.
+
+[DZone](https://dzone.com/writers-zone) - Pay varies
+> Articles and tutorials on various software development topics.
+
+[Linode](https://www.linode.com/docs/contribute/) - $100-$300 per guide
+> Technical guides about Linux, cloud computing, and web development.
+
+[Digital.com](https://digital.com/write-for-us/) - $200-$500 per piece
+> Articles about web hosting, ecommerce, and digital marketing.
+
+[Compose.io](https://www.compose.com/articles/write-for-compose/) - $200 per piece
+> Articles about databases, data storage, and related technologies.
+
+[Honeybadger](https://www.honeybadger.io/blog/write-for-us/) - $500 per piece
+> Ruby and Elixir tutorials with code. Pick from a list of possible articles.
+
+[Twilio](https://go.twilio.com/twilio-voices/) - $500 per piece
+> Technical tutorials and articles about communication APIs, web development, and Twilio products.
+
+[Scotch.io](https://scotch.io/write-for-us) - $150 per piece
+> Tutorials and articles about web development and programming.
+
+[Hasura](https://hasura.io/blog/write-for-hasura/) - Up to $300 per piece
+> Technical tutorials with code about Hasura or GraphQL.
+
+[LogRocket](https://blog.logrocket.com/become-a-logrocket-guest-author/) - $350 per piece
+> Technical tutorials and articles about front-end development, performance monitoring, and debugging.
+
+[Fauna](https://fauna.com/blog/write-with-fauna) - $200-$500 per piece
+> Technical tutorials and articles about databases, serverless technologies, and web development.
+
+[Vonage](https://developer.vonage.com/spotlight/) - $500 per piece
+> Technical tutorials and articles about communication APIs, web development, and Vonage products.
+
+[Clubhouse.io](https://clubhouse.io/blog/write-for-us/) - $350-$600 per piece
+> Articles about software development processes, team collaboration, and project management.
+
+[Codementor](https://www.codementor.io/blog/write-for-us-b9e2b5010ec9) - $100-$200 per piece
+> Technical tutorials and articles about programming and software development.
+
+[Flywheel](https://getflywheel.com/layout/write-for-us/) - $75-$150 per piece
+> Articles about WordPress development, design, and business.
+
+[WPHub](https://www.wphub.com/write-for-us/) - $100-$200 per piece
+> Tutorials and articles about WordPress development and design.
+
+[Kinsta](https://kinsta.com/write-for-us/) - $300 per piece
+> In-depth articles about WordPress, web development, and digital marketing.
+
+[Vultr](https://www.vultr.com/docs/vultr-docs-program-guidelines) - Up to $300 per piece
+> Technical tutorials and articles about cloud computing, system administration, and DevOps.
+
+[Datadog](https://www.datadoghq.com/blog/write-for-datadog/) - $200-$400 per piece
+> Technical articles about monitoring, observability, and DevOps.
+
+[Soshace](https://soshace.com/write-for-us/) - $100 per piece
+> Articles about web development, programming languages, and software engineering.
+
+[Paperspace](https://blog.paperspace.com/write-for-paperspace/) - $200-$300 per piece
+> Technical tutorials and articles about machine learning, deep learning, and AI.
+
+[Postmark](https://postmarkapp.com/write-for-us) - $200-$300 per piece
+> Articles about email deliverability, transactional email, and related technologies.
+
+[Nexmo](https://developer.nexmo.com/spotlight/) - $400 per piece
+> Technical tutorials and articles about communication APIs and web development.
+
+[Okta](https://developer.okta.com/blog/) - $500 per piece
+> Technical tutorials and articles about identity, security, and web development.
+
+[Pusher](https://pusher.com/guest-writer-program/) - $300 per piece
+> Technical tutorials and articles about real-time technologies, web development, and Pusher products.
+
+[Couchbase](https://blog.couchbase.com/couchbase-community-writing-program/) - $200 per piece
+> Technical articles and tutorials about NoSQL databases, distributed systems, and Couchbase products.
+
+[Contentful](https://www.contentful.com/blog/write-for-contentful-blog/) - €500 per piece
+> Articles about content management systems, JAMstack, and modern web development practices.
+
+[Rancher](https://rancher.com/writing-program/) - Up to $300 per piece
+> Technical tutorials and articles about Kubernetes, containerization, and DevOps.
+
+[Algolia](https://www.algolia.com/blog/write-for-us/) - $500 per piece
+> Technical articles and tutorials about search technologies, web development, and Algolia products.
+
+[Sqreen](https://www.sqreen.com/community) - €500 per piece
+> Articles about application security, web development, and DevSecOps.
+
+[Sentry](https://sentry.io/write-for-us/) - $250 per piece
+> Technical tutorials and articles about error monitoring, performance optimization, and debugging.
+
+[Sanity.io](https://www.sanity.io/guest-authorship) - $250 per piece
+> Technical tutorials and articles about content management, JAMstack, and web development.
+
+[Gatsby](https://www.gatsbyjs.com/contributing/blog-contributions/) - $250 per piece
+> Articles and tutorials about Gatsby, React, and modern web development techniques.
+
+[Timber](https://timber.io/write-for-us/) - $200 per piece
+> Technical articles about logging, observability, and DevOps practices.
+
+[Educative](https://www.educative.io/m/become-an-educative-author) - Pay varies
+> In-depth technical courses and tutorials on various programming topics.
+
+[Bugsnag](https://www.bugsnag.com/blog/write-for-us) - $500 per piece
+> Articles about error monitoring, debugging, and software quality.
+
+[Honeycomb](https://www.honeycomb.io/blog/write-for-us/) - $500 per piece
+> Technical articles about observability, monitoring, and DevOps practices.
+
+[Codeship](https://codeship.com/write-for-us) - $200-$300 per piece
+> Articles and tutorials about CI/CD, DevOps, and software development best practices.
+
+[Earthly](https://earthly.dev/blog/write-for-us/) - $300 per piece
+> Technical articles about build automation, CI/CD, and DevOps.
+
+[Teleport](https://goteleport.com/blog/write-for-us/) - $500 per piece
+> Articles about infrastructure access, security, and modern DevOps practices.
+
+[Cockroach Labs](https://www.cockroachlabs.com/community/write-for-us/) - $500 per piece
+> Technical articles and tutorials about distributed databases, SQL, and cloud-native applications.
+
+[Sourcegraph](https://handbook.sourcegraph.com/marketing/content-marketing/write-for-us) - $500 per piece
+> Articles about code search, developer productivity, and software development practices.
+
+[Appsmith](https://www.appsmith.com/blog/write-with-appsmith) - $200-$400 per piece
+> Technical tutorials and articles about low-code platforms, web development, and Appsmith.
+
+[Retool](https://retool.com/blog/write-for-us/) - $500-$1000 per piece
+> Articles about internal tools, low-code platforms, and software development for businesses.
+
+[Adeva](https://adevait.com/write-for-us) - $200+ per piece
+> Technical guides, thought leadership content and resources for Engineering Managers.
+
 ## Contributing
 
 If you know of any other companies that offer paid technical writing opportunities, please feel free to contribute by submitting a pull request. Please ensure that the information you add follows the existing format and includes a link to the company's writing program page.
