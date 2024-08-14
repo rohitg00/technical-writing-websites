@@ -435,6 +435,7 @@ This list provides a curated collection of companies offering paid writing progr
 > Documenting APIs: A guide for technical writers and engineers
 
 [Write the Docs](https://www.writethedocs.org/topics/)
+> Free curated list of technical writing resources
 
 [awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
 > 📚 A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.
@@ -443,7 +444,7 @@ This list provides a curated collection of companies offering paid writing progr
 > A collection of blogpost, resources, and links that has helped me in my journey as a technical writer. I still refer to them and contribute to the list as I find more.
 
 [jekyll-theme-chirpy](chirpy.cotes.page)
-> https://github.com/cotes2020/jekyll-theme-chirpy
+> Technical Writing Theme
 
 [awesome-technical-writing-learning](https://github.com/wongyah/awesome-technical-writing-learning)
 > 😎 A curated list of awesome and free resources about technical writing.
