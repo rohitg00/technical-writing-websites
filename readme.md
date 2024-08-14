@@ -460,11 +460,11 @@ This list provides a curated collection of companies offering paid writing progr
 * [The Not Boring Tech Writer](https://www.thenotboringtechwriter.com/)
 * [10 Minute Tech Comm](https://www.stitcher.com/podcast/uah-technical-writing/10minute-tech-comm)
 * [Content Content](http://edmarsh.com/content-content-podcast/)
-* [Instrktiv's Insane Instructions Show](https://open.spotify.com/show/0OqluDn7YSjc1cdAULPOB8) (new)
-* [The Manuscript](https://podcasts.apple.com/podcast/the-manuscript/id1501843799) (new)
-* [The Knowledgebase Ninjas](https://document360.io/blog/category/knowledgebase-ninjas/) (new)
-* [Content Components](https://easydita.com/project/content-components-podcast/) (new)
-* [Titans of Tech Comm](https://heretto.com/project/titans-of-tech-comm-podcast/) (new)
+* [Instrktiv's Insane Instructions Show](https://open.spotify.com/show/0OqluDn7YSjc1cdAULPOB8)
+* [The Manuscript](https://podcasts.apple.com/podcast/the-manuscript/id1501843799)
+* [The Knowledgebase Ninjas](https://document360.io/blog/category/knowledgebase-ninjas/)
+* [Content Components](https://easydita.com/project/content-components-podcast/)
+* [Titans of Tech Comm](https://heretto.com/project/titans-of-tech-comm-podcast/)
 
 ## Contributing
 
