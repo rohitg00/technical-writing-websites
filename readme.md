@@ -162,6 +162,9 @@ This list provides a curated collection of companies offering paid writing progr
 [Invertase](https://invertase.io/authors-program) - Up to $250 per piece and up to $100 voucher for author of the month
 > Technical tutorials or blogs with code about Dart & Flutter, Firebase, Firebase extensions, Software development, open source and web technologies
 
+[Keploy](https://writers.keploy.io) - $10 per article
+> Write technical and community blogs on given set of keywords. Write about AI agents, testing, APIs, Software developent best practices and more.
+
 [Kestra](https://kestra.io/write-for-us) - $300+ per article
 > Technical tutorials, guides, opinions and case studies on data orchestration and workflow optimization.
 
